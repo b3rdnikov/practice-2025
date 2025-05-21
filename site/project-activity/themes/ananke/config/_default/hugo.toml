@@ -1,0 +1,7 @@
+baseURL = "https://your-project-site.ru/"
+languageCode = "ru-ru"
+title = "Проект по Проектной деятельности"
+theme = "ananke"
+
+[module.hugoVersion]
+min = "0.128.0"
