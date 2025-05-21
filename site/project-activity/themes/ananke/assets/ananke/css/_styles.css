@@ -1,0 +1,17 @@
+/* Put your custom styles here and run `npm start` from the "src" directory on */
+
+#TableOfContents ul li {
+  margin-bottom: 1rem; /* Заменил cm на rem */
+}
+
+.content blockquote {
+  display: block;
+  font-size: 0.875rem; /* Исправлены единицы измерения */
+  margin: 1rem 0; /* Нормальные отступы */
+  border-left: 4px solid #ccc; /* Исправлен цвет */
+  padding-left: 1rem; /* Адекватный отступ */
+}
+
+.nested-links a { /* Исправлена опечатка в названии класса */
+  overflow-wrap: break-word;
+}
